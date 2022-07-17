@@ -16,14 +16,14 @@ function App() {
               <h3>London, GB</h3>
               <img 
               src="https://cdn.iconscout.com/icon/free/png-256/weather-296-1100758.png" alt="cloudANDsun"
-              />
+               />
               <h3>Cloudy</h3>
             </div>
           <div className="temperature">
             <h1>32 °C</h1>
           </div>
           </div>
-
+          
           {/* bottom description */}
         </div>
       </div>
