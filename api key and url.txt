@@ -1,0 +1,4 @@
+api key: 40f3f99f21f6cb2597cfc7a762dbb053
+
+
+https://api.openweathermap.org/data/2.5/weather?q=london&appid=40f3f99f21f6cb2597cfc7a762dbb053
