@@ -1,3 +1,4 @@
+import React from "react";
 import hotBg from "../src/assets/hot.jpg";
 import coldBg from "../src/assets/cold.jpg";
 import Descriptions from "./components/descriptions";
